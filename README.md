@@ -16,6 +16,7 @@
 - 源码地址
 ```
 test1
+https://github.com/Mrlshadows/javaeeTest/tree/master/test1/app
 注意事项：使用时，更改相应位置的数据库用户名、密码、数据库名与字段名与创建的相一致。
 ```
 - 参考资料
@@ -51,6 +52,7 @@ https://www.cnblogs.com/cyberniuniu/p/5877380.html
 - 源码地址
 ```
 test2
+https://github.com/Mrlshadows/javaeeTest/tree/master/test2/jsf_f
 ```
 - 参考资料
 > JSF教程（1）——简介 + HelloWorld
@@ -70,5 +72,10 @@ https://jerval.iteye.com/blog/1871426
 
 > 用JSF的valueChangeListener实现表单联动
 http://www.voidcn.com/article/p-babauths-bhq.html
+
+## 实验3
+无
+## 实验4
+无
 ## 提示
 - 应付实验的同时可以看下源码，捋一下逻辑。
