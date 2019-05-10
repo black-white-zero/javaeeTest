@@ -1,0 +1,49 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsf_F:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsf_F_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jsf_F/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsf_F" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="JBoss Weld-2.0.3" />
+          <element id="library" level="project" name="Mojarra-2.4.0" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/cdi-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-se.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-spi.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-se-core.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-servlet.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core-jsf.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core-impl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/cdi-api-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/cdi-api-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-se-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-api-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-api-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-spi-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-spi-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.faces-2.4.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-servlet-core.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-se-core-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-se-core-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-servlet-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-servlet-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core-jsf-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core-jsf-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core-impl-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-core-impl-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-servlet-core-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/weld-servlet-core-sources.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

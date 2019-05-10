@@ -27,3 +27,48 @@ https://blog.csdn.net/icarus_wang/article/details/51046083
 
 > MySql指令集（一）
 https://blog.csdn.net/cl05300629/article/details/9464007
+
+## 实验2
+> 题目1 使用JSF标签构建图书添加页面。
+> 题目2 使用托管Bean获得用户输入的图书信息。
+> 题目3 使用转换器和验证器对用户输入的图书信息进行转换和验证。
+> 题目4 使用导航功能，用户点击添加按钮后，将其导航到添加确认页面。
+> 题目5 使用值更改事件，实现类别与子类别的联动关系。
+
+- 注意事项
+实验2完成了题目1和题目2，后面的没有包括。
+- 配置开发环境
+```
+idea 可以直接新建 JSF项目，可以用以下网址参考配置。
+在 IntelliJ IDEA 中配置 JSF 开发环境的入门详解
+https://www.cnblogs.com/cyberniuniu/p/5877380.html
+
+注意：
+1. 我们的实验项目是可以用tomcat实现的，没有必要下载文章中所说的完整版应用服务器。
+2. 即按照文中配置服务器的办法配置tomcat即可。
+3. 项目所需的jar包，已经包含在了源代码中，注意编译jar包。
+```
+- 源码地址
+```
+test2
+```
+- 参考资料
+> JSF教程（1）——简介 + HelloWorld
+https://blog.csdn.net/beijiguangyong/article/details/22455787
+
+> JSF学习之最简单jsf
+https://blog.csdn.net/qq931399960/article/details/45130855
+
+> 解决报错NoClassDefFoundError: javax/servlet/jsp/jstl/core/Config
+https://blog.csdn.net/king0406/article/details/54025410
+
+> JSF <h:inputText>标签
+https://www.yiibai.com/jsf/inputtext.html
+
+> 解决Jetty JSF2错误：java.lang.IllegalStateException: Singleton is not set
+https://jerval.iteye.com/blog/1871426
+
+> 用JSF的valueChangeListener实现表单联动
+http://www.voidcn.com/article/p-babauths-bhq.html
+## 提示
+- 应付实验的同时可以看下源码，捋一下逻辑。
